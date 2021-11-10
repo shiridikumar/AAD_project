@@ -1,0 +1,7 @@
+setup.py
+src/algotools.py
+src/algotoolsshiridi.egg-info/PKG-INFO
+src/algotoolsshiridi.egg-info/SOURCES.txt
+src/algotoolsshiridi.egg-info/dependency_links.txt
+src/algotoolsshiridi.egg-info/requires.txt
+src/algotoolsshiridi.egg-info/top_level.txt

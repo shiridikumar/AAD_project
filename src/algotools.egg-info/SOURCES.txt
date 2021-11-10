@@ -1,0 +1,7 @@
+setup.py
+src/algotools.py
+src/algotools.egg-info/PKG-INFO
+src/algotools.egg-info/SOURCES.txt
+src/algotools.egg-info/dependency_links.txt
+src/algotools.egg-info/requires.txt
+src/algotools.egg-info/top_level.txt
