@@ -171,15 +171,14 @@ class GeneticAglo:
         return (a,b)
 
 
-n=int(input())
-weights=[[0 for i in range(n)] for j in range(n)]
+#n=int(input())
+"""weights=[[0 for i in range(n)] for j in range(n)]
 for i in range(n):
     for j in range(n):
         num=randint(100,200)
         weights[i][j]=num
 
 
-
 obj=GeneticAglo(n,weights,1000)
 state,cost=obj.solve()
-print(state,cost)
+print(state,cost)"""

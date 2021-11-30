@@ -1,5 +1,5 @@
 setup.py
-src/algotools.py
+src/algospackage.py
 src/algotoolsshiridi.egg-info/PKG-INFO
 src/algotoolsshiridi.egg-info/SOURCES.txt
 src/algotoolsshiridi.egg-info/dependency_links.txt
