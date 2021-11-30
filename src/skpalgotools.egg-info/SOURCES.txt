@@ -1,0 +1,7 @@
+setup.py
+src/skpalgotools.py
+src/skpalgotools.egg-info/PKG-INFO
+src/skpalgotools.egg-info/SOURCES.txt
+src/skpalgotools.egg-info/dependency_links.txt
+src/skpalgotools.egg-info/requires.txt
+src/skpalgotools.egg-info/top_level.txt
